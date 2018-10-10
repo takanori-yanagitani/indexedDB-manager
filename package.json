@@ -1,0 +1,22 @@
+{
+  "name": "indexeddb-manager",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "takanori <yanagitani.adin@gmail.com>",
+  "license": "ISC",
+  "description": "indexedDB Manager for IE11",
+  "keywords": [
+    "indexeddb",
+    "ie11",
+    "internetexplorer",
+    "internet-explorer"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/takanori-yanagitani/indexedDB-manager"
+  }
+}
